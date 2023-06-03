@@ -1,0 +1,32 @@
+ 
+.fondo{
+    padding: 20px;
+}
+
+.fondo.categoria-nacional { 
+    background: #00B049;
+    color: #FFFFFF;
+}
+ 
+.fondo.categoria-entrenamiento { 
+    background:  #FFC915;
+    color: #FFFFFF;
+}
+ 
+
+.fondo.categoria-tecnologia { 
+    background: #00D3F8;
+    color: #FFFFFF;
+}
+ 
+ 
+.fondo.categoria-mascotas { 
+    background: #90456D;
+    color: #FFFFFF;
+}
+ 
+.fondo.categoria-deportes { 
+    background: #FF372C;
+    color: #FFFFFF;
+}
+ 
